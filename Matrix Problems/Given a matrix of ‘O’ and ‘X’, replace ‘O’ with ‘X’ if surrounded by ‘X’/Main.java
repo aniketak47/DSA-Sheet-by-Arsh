@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/
+
 public class Main {
     public static void main (String[] args)
     {
